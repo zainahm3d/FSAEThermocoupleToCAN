@@ -4,3 +4,4 @@
 .vscode/launch.json
 .vscode/ipch
 Hardware/FSAEThermocoupleInterface/History/*
+Firmware/.vscode/
