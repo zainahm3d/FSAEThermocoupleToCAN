@@ -1,0 +1,5 @@
+Added Component: Designator=THERM5(Type K Connector)
+Added Pin To Net: NetName=NetTHERM5_1 Pin=THERM5-1
+Added Pin To Net: NetName=NetTHERM5_2 Pin=THERM5-2
+Added Member To Class: ClassName=mainSchem Member=Component THERM5 AM-K-PCB
+Added Room: Name=mainSchem

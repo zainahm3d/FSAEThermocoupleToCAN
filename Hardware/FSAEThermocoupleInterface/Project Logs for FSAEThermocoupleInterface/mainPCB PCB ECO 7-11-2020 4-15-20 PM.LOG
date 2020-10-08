@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=UART_TX Pin=P2-2
+Removed Pin From Net: NetName=SPICLK Pin=P2-4
+Removed Pin From Net: NetName=3V3 Pin=P2-8
+Added Pin To Net: NetName=3V3 Pin=P2-2
+Added Pin To Net: NetName=UART_TX Pin=P2-4
+Added Pin To Net: NetName=SPICLK Pin=P2-8
+Added Member To Class: ClassName=mainSchem Member=Component R2 ERJ3EKF1002V

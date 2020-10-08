@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR2_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-7
+Added Net: Name=NetR5_1
+Added Member To Class: ClassName=mainSchem Member=Component R5 ERJ3EKF1002V

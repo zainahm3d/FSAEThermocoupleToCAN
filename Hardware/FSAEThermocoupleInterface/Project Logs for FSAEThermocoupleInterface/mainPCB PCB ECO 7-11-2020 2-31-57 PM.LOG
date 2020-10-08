@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=CS3 Pin=U1-21
+Removed Pin From Net: NetName=CS4 Pin=U1-22
+Removed Pin From Net: NetName=CS5 Pin=U1-25
+Removed Pin From Net: NetName=CS1 Pin=U1-45
+Removed Pin From Net: NetName=CS2 Pin=U1-46
+Added Pin To Net: NetName=CS5 Pin=U1-20
+Added Pin To Net: NetName=CS4 Pin=U1-21
+Added Pin To Net: NetName=CS3 Pin=U1-22
+Added Pin To Net: NetName=CS2 Pin=U1-30
+Added Pin To Net: NetName=CS1 Pin=U1-31
+Added Member To Class: ClassName=mainSchem Member=Component U6 MAX31855KASA+T

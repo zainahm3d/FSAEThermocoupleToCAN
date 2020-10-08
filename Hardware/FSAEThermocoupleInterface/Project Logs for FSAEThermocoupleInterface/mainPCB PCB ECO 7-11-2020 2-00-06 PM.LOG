@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=3V3 Pin=C5-1
+Added Pin To Net: NetName=3V3 Pin=C6-1
+Added Pin To Net: NetName=3V3 Pin=C7-1
+Added Pin To Net: NetName=3V3 Pin=C8-1
+Added Pin To Net: NetName=3V3 Pin=C9-1
+Added Pin To Net: NetName=3V3 Pin=U3-4
+Added Pin To Net: NetName=3V3 Pin=U4-4
+Added Pin To Net: NetName=3V3 Pin=U5-4
+Added Pin To Net: NetName=3V3 Pin=U6-4
+Added Pin To Net: NetName=3V3 Pin=U7-4
+Added Room: Name=mainSchem

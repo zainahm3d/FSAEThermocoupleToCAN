@@ -1,0 +1,26 @@
+Change Component Designator: OldDesignator=LED? NewDesignator=LED4
+Change Component Designator: OldDesignator=LED? NewDesignator=LED5
+Change Component Designator: OldDesignator=LED? NewDesignator=LED6
+Change Component Designator: OldDesignator=LED? NewDesignator=LED7
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Net Name : Old Net Name=NetLED?_1 New Net Name=NetLED6_1
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_1 Pin=R7-1
+Added Net: Name=NetLED4_1
+Added Pin To Net: NetName=NetLED5_1 Pin=LED5-1
+Added Pin To Net: NetName=NetLED5_1 Pin=R8-1
+Added Net: Name=NetLED5_1
+Added Pin To Net: NetName=NetLED7_1 Pin=LED7-1
+Added Pin To Net: NetName=NetLED7_1 Pin=R10-1
+Added Net: Name=NetLED7_1
+Added Member To Class: ClassName=mainSchem Member=Component LED5 150120GS75000
+Added Member To Class: ClassName=mainSchem Member=Component LED6 150120GS75000
+Added Member To Class: ClassName=mainSchem Member=Component LED7 150120GS75000
+Added Member To Class: ClassName=mainSchem Member=Component R6 CRCW0603200RFKEA
+Added Member To Class: ClassName=mainSchem Member=Component R8 CRCW0603200RFKEA
+Added Member To Class: ClassName=mainSchem Member=Component R9 CRCW0603200RFKEA
+Added Member To Class: ClassName=mainSchem Member=Component R10 CRCW0603200RFKEA
